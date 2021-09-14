@@ -1,5 +1,6 @@
 # Linux Assignment
 This Project is consist of 6 exercises. In this, I have created .sh file in which I have written the commands as per the requirement of project.
+
 Exercise_1 - Write a shell script that prints “Shell Scripting is Fun!” on the screen
 
 Exercise_2 - Modify the shell script from exercise 1 to include a variable. The variable will hold the contents of the message “Shell Scripting is Fun!”
